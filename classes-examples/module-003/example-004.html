@@ -1,0 +1,72 @@
+<!--
+    * Author: Pedro Henrique Resende Ribeiro
+    * Description: Tables
+    * Date: 16/06/2022 - Hour: 00:38
+-->
+
+<!doctype html>
+
+<html>
+
+    <head>
+
+        <title>My website</title>
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+
+        <h2>Products table</h2>
+
+        <table align="center" border="1" width="90%">
+
+            <!-- Tag <tr> means table row  -->
+
+            <tr>
+                <th>Code</th>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Photo</th>
+            </tr>
+
+            <tr>
+                <td>001</td>
+                <td>Notebook</td>
+                <td>R$ 5.000,00</td>
+                <td> <center> <img src="images/notebook.png" width="64"> </center> </td>
+            </tr>
+
+            <tr>
+                <td>002</td>
+                <td>Tablet</td>
+                <td>R$ 2.000,00</td>
+                <td> <center> <img src="images/tablet.png" width="64"> </center> </td>
+            </tr>
+
+            <tr>
+                <td>003</td>
+                <td>Smartphone</td>
+                <td>R$ 1.500,00</td>
+                <td> <center> <img src="images/smartphone.png" width="64"> </center> </td>
+            </tr>
+
+            <tr>
+                <td rowspan="2">Discount</td>
+                <td colspan="3">Coupon 1 - 10%</td>
+            </tr>
+
+            <tr>
+                <td colspan="3">Coupon 2 - 15%</td>
+            </tr>
+
+            <tr>
+                <td>Total</td>
+                <td colspan="3">R$ 8.500,00</td>
+            </tr>
+
+        </table>
+
+    </body>
+
+</html>
