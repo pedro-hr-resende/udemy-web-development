@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/pedro-hr-resende/udemy-web-development/blob/main/project-001/project-images/page-001.png" width="80%">
+  <img src="/project-images/page-001.png" width="80%">
 </p>
 
 <p align="center">
