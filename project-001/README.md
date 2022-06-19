@@ -1,7 +1,7 @@
 # Unes website (fictional university)
 
 <p align="justify">
-  The goal of this project was to create a fictional page of a university called Unes. The site is divided into three pages: home, about us and contact. The final result of project is shown below.
+  The goal of this project was to create a fictional page of a university called Unes. The site is divided into three pages: home, about us and contact. Only HTML5 was used and the website was structured using tables. It's important to note that the use of tables to structure websites isn't recommended, since there are more appropriate resources for this purpose. The intention was to practice HTML5 concepts learned in this course module. The final result of project is shown below.
 </p>
 
 <p align="center">
