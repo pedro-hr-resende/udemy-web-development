@@ -5,8 +5,8 @@
 </p>
 
 <ul>
-  <li> HTML 5
-  <li> CSS 3
+  <li> HTML5
+  <li> CSS3
 </ul>
 
 <p align="justify">
